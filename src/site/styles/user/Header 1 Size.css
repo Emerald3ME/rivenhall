@@ -1,9 +1,0 @@
-/* << ------------------ Reading View ------------------ >> */
-	.markdown-preview-view h1 {
-		font-size: 54px !important;
-	}
-
-/* << ------------ Source View / Live Preview ------------ >> */
-	.cm-s-obsidian .cm-header.cm-header-1 {
-		font-size: 54px !important;
-	}
