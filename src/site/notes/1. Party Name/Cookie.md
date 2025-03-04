@@ -15,7 +15,7 @@
 > <h4> Stats </h4>
 > 
 
-**Cookie** is a N/A Human N/A Wizard. He/She/They are played by Nikola.
+**Cookie** is a Ghoul Human N/A Wizard. He is played by Nikola.
 
 > [!example|bg-yellow c-yellow] Table of Contents 
 > 1. [[1. Party Name/Cookie#Description\|#Description]]

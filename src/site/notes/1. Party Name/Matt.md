@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/1-party-name/garson/","tags":["player_character"]}
+{"dg-publish":true,"permalink":"/1-party-name/matt/","tags":["player_character"]}
 ---
 
-# Garson
+# Matt
 > [!infobox]
-> ## **Garson**
+> ## **Matt**
 > ![CharacterArt|220](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qAyHWqphrd9sdj7KtA7Pu4iX-bxcnKBdBw&s)
 > *Insert text about character portrait*
-> <table><colgroup></colgroup><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Type</td><td>Player Character</td></tr><tr><td>Actor</td><td>Anna</td></tr><tr></tbody></table>
+> <table><colgroup></colgroup><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Type</td><td>Player Character</td></tr><tr><td>Actor</td><td>*insert*</td></tr><tr></tbody></table>
 > <h3> Character Information </h3>
 > 
 > <h4> Status </h4>
@@ -15,12 +15,10 @@
 > <h4> Stats </h4>
 > 
 
-**Garson** is a N/A N/A N/A Kineticist. He/She/They are played by Anna.
+**Matt** is a N/A N/A N/A N/A. He/She/They are played by Matt.
 
 > [!example|bg-yellow c-yellow] Table of Contents 
-> 1. [[1. Party Name/Garson#Description\|#Description]]
-> 	1.1 [[1. Party Name/Garson#Appearance\|#Appearance]]
-> 	1.2 [[1. Party Name/Garson#Personality\|#Personality]]
+> 1. [[1. Party Name/Matt#Description\|#Description]]
 
 ## Description
 ### Appearance
