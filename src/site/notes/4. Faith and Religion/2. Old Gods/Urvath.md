@@ -19,12 +19,19 @@
 > 1. [[4. Faith and Religion/2. Old Gods/Urvath#God of the Depths\|#God of the Depths]]
 
 ## God of the Depths
+The faith of the Depths is a singular creed, bound to the seaside lands alone. Urvath is revered as the maker of the seas and the father of the first sailors, whose descendants believe themselves to be born of his watery halls. Urvath fashioned them in his own image, to carve out lands like a wave beating against stone, to make their names known in wake and song, and to hold dominion over all the waters of the earth. 
+
+It is said that the God of the Depths is locked in a bitter feud with [[4. Faith and Religion/2. Old Gods/Tyrax\|Tyrax]] the Storm God, and fellow [[4. Faith and Religion/2. Old Gods/2. Old Gods\|Old God]].  The frequent clash between Urvath and [[4. Faith and Religion/2. Old Gods/Tyrax\|Tyrax]] is believed to have raged for a thousand thousand years, an eternal battle of the seas against the sky. Many sailors and marines believe that the power of their god wanes the farther from the sea they roam. Even in lands where other gods are worshipped, the followers of Urvath believe that the might of the sea lends strength to his followers. Most of Urvath's worshippers hold little more than scorn for the [[4. Faith and Religion/1. New Gods/1. New Gods\|New Gods]] and [[3. Characters/Groups/Church of Hallowed Light/Church of Hallowed Light\|Church of Hallowed Light]], for in their hearts, only Urvath, Warden of the Black Current commands their devotion.
 ## Artifacts
 ## Places of Worship and Holy Sites
 ## Organization
 ### Priests
 ### Men of the Deep
+The Men of the Deep, also referred to as the Tideborn, are the acolytes of a notable [[4. Faith and Religion/2. Old Gods/Urvath#Priests\|Priest]] of Urvath. Yet this Priest's identity is yet to be discovered. 
 ## Practices
+Urvath and the Faith of the Depths, have no holy scriptures, idols, or temples. There are sites of worship, however almost all of those sites are outdoors by the ocean. Most worshippers of Urvath are loyal to the Black Current's Priests, and can be called upon for meetings at anytime. More dedicated members of the Faith of the Depths undergo baptism or ritualistic bathing to receive Urvath's blessing. Sailors who worship Urvath poor sea water on their ships deck before setting sail in hopes of safe travel.  
+
+When a follower of Urvath dies, it is believed that their soul must travel beneath the waves to join the Warden of the Black Current where they celebrate and indulge themselves for all eternity. 
 ## Symbols
 ## History
 ## Recent Events
