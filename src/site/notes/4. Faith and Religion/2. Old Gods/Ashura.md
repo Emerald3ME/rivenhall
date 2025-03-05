@@ -3,7 +3,17 @@
 ---
 
 # Ashura, God of the Searing Soul
-**Ashura**, also known as the The Searing Soul, and the God of Fire, is a prominent member of the [[4. Faith and Religion/2. Old Gods/2. Old Gods\|Old Gods]]. He is known to be as wrathful as a wildfire, yet as comforting as a hearth. As blistering as a furnace, yet as warm as hug. This relationship between scorching and warmth comprises the modern view of Ashura. 
+> [!infobox] 
+> ## God of the Searing Soul
+> ![Art|300](https://cdnb.artstation.com/p/assets/images/images/032/468/571/large/lindsey-crummett-asset.jpg?1606529014)
+> *Ashura's Symbol*
+> ### Deity Information
+> <table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Type</td><td>Old God</td></tr><tr><td>Also Known As</td><td>God of the Searing SOul</td></tr><tr><td>Title(s)</td><td>Heart of the Searing Soul</td></tr><tr><td>Common Symbol</td><td>A round eye with an elongated pupil underwater</td></tr><tr><td>Areas of Concern</td><td>The Sea, Finality of Death, Sacrifice and Ritual</td></tr><tr><td>Domains</td><td>Fire, Destruction</td></tr><tr><td>Favored Weapon</td><td>Trident</td></tr><tr><td>Gender</td><td>Masculine</td></tr></tbody></table>
+> 
+> ### Worship
+
+
+**Ashura**, also known as the The Searing Soul, and the God of Fire, is a prominent member of the [[4. Faith and Religion/2. Old Gods/2. Old Gods\|Old Gods]]. He is known to be as wrathful as wildfire, yet as comforting as a hearth. As blistering as a furnace, yet as warm as hug. This relationship between scorching and warmth comprises the modern view of Ashura. 
 ## the Searing Soul
 The **Faith of the Searing Soul** lives in direct opposition to that of [[4. Faith and Religion/2. Old Gods/Nymora\|Nymora]] and her faith of the icewoven. 
 ## Artifacts
@@ -11,7 +21,7 @@ Yet to be discovered.
 ## Places of Worship and Holy Sites
 ## Organization
 ### Priests
-Priests of Ashura, also called **Flame Priests**, are specialists in divone incendiary magics. They've spent many years training their sight to be able to see messages and images in a dancing flame, and how to interpret those images. 
+Priests of Ashura, also called **Flame Priests**, are specialists in divine incendiary magics. They've spent many years training their sight to be able to see messages and images in a dancing flame, and how to interpret those images. 
 
 ## Practices
 ### Prayer

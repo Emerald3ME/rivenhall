@@ -16,7 +16,8 @@
 **Urvath**, known also as the [[4. Faith and Religion/2. Old Gods/2. Old Gods\|Old God]] of the Depths, is a dark and ancient deity revered by many seaside settlements in the farthest reaches of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]] and the known world. Much like the rest of the old gods, Urvath's faith has stood the test of time. In many regions the **faith of the depths** has defied all attempts to surmount it with the more popular faith of the [[4. Faith and Religion/1. New Gods/1. New Gods\|New Gods]] pushed by the mighty [[3. Characters/Groups/Church of Hallowed Light/Church of Hallowed Light\|Church of Hallowed Light]]. Along countless shores, the worship of Urvath pulses at the core of coastal life, fueling a relentless devotion to the sea and its neigh unstoppable power.
 
 > [!example]+ Table of Contents
-> 1. [[4. Faith and Religion/2. Old Gods/Urvath#God of the Depths\|#God of the Depths]]
+> 1. [[4. Faith and Religion/2. Old Gods/Urvath#God of the Depths\|God of the Depths]]
+> 2. [[4. Faith and Religion/2. Old Gods/Urvath#Artifacts\|Artifacts]]
 
 ## God of the Depths
 The faith of the Depths is a singular creed, bound to the seaside lands alone. Urvath is revered as the maker of the seas and the father of the first sailors, whose descendants believe themselves to be born of his watery halls. Urvath fashioned them in his own image, to carve out lands like a wave beating against stone, to make their names known in wake and song, and to hold dominion over all the waters of the earth. 
