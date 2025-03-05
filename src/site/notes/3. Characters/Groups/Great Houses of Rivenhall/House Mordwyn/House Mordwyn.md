@@ -10,7 +10,7 @@
 > <table><thead><tr><th colspan="2"></th></tr></thead><tbody><tr><td>Full Name</td><td>Great Royal House Mordwyn of Rivenhall</td></tr><tr><td>Coat of Arms</td><td>A black raven on purple. </td></tr><tr><td>Seat</td><td></td></tr><tr><td>Head(s)</td><td></td></tr><tr><td>Religion</td><td> New Gods</td></tr><tr><td>Ancestral Weapon</td><td>Currently Unknown</td></tr></tbody></table>
 ><h3> Alligances </h3>
 
-**House Mordwyn** is one of the Great Royal Houses of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]] and the principal house of the Mistlands. Their official motto is "Chaos the Pathway, Arcane be the Guide" and their 5 core tenets are: 
+**House Mordwyn** is one of the Great Royal Houses of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]] and the principal house of the Mistlands. Their official motto is "Chaos is the Pathway, Arcane be the Guide" and their 5 core tenets are: 
 1. Protection of Rights
 2. Encourage Ambition 
 3. Value Information 
