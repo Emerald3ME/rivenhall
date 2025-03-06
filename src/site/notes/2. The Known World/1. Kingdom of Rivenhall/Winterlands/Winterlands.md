@@ -28,5 +28,7 @@ Currently unknown by the Party.
 ## History
 ### Before Rivenhall's Founding 
 ### Recent Events
+## Points of Interest
+- [[2. The Known World/1. Kingdom of Rivenhall/Winterlands/Silverholde/Silverholde\|Silverholde]] (Capital)
 ## Characters who Live in the Winterlands
 - [[3. Characters/Groups/Great Houses of Rivenhall/House Yormont/Gregor Yormont\|Gregor Yormont]]
