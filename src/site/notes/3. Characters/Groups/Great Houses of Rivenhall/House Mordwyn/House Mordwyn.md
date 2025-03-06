@@ -27,21 +27,6 @@ Much like the other Great Houses, the Mordwyn's have dedicated themselves for ma
 ### Wealthy
 Their keen intellect and position in the education sector has made the Mordwyn's a considerable wealth that they often use to reinvest in their own endeavors. 
 
-### Strengths
-- Intelligent
-	- Strategic 
-- Witty, humorous, and persuasive.
-- Takes risks.
-- Compassionate with those less fortunate.
-- More self-aware than others. 
-- Good with finances. 
-
-### Flaws
-- Distrustful, cynical, and sometimes paranoid.
-- Overly ambitious. 
-- Struggles with Resentment. 
-- Desires approval from others. 
-
 ### Culture
 
 ## Members

@@ -27,19 +27,6 @@ Yormonts value fairness and tend to apply laws impartially, regardless of who th
 ### Resilience and Endurance
 A Yormont is always prepared. A long history of living in what some would consider inhospitable conditions have toughen the skin of the Yormonts. 
 
-### Strengths
-- They are physically very impressive. Boasting high strength and endurance.
-- Pragmatic 
-	- prepared for a variety of situations.
-- Resilient
-- Attuned to Nature
-- Independent 
-
-### Flaws
-- Overprotective
-- Anger issues
-- Slow to Trust
-- Too Independent. 
 ### Culture
 
 ## Members
