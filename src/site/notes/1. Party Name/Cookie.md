@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"cssclasses":null,"ancestry":"Human","heritage":null,"background":null,"class":"Wizard","subclass":null,"player_name":"Nikola","dg-publish":true,"permalink":"/1-party-name/cookie/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"cssclasses":null,"ancestry":"Human","heritage":null,"background":null,"class":"Wizard","subclass":null,"playername":"Nikola","dg-publish":true,"permalink":"/1-party-name/cookie/","dgPassFrontmatter":true}
 ---
 
 # Cookie
@@ -15,7 +15,7 @@
 > <h4> Stats </h4>
 > 
 
-**Cookie** is a Duskwalker Human Wizard. He is played by Nikola.
+**Cookie** is a Duskwalker Human Wizard. He is played by `=this.player_name`.
 
 > [!example|bg-yellow c-yellow] Table of Contents 
 > 1. [[1. Party Name/Cookie#Description\|#Description]]
