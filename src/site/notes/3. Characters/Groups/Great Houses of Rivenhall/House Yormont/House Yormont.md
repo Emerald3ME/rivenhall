@@ -12,9 +12,9 @@
 
 **House Yormont** is one of the [[3. Characters/Groups/Great Houses of Rivenhall/Great Houses of Rivenhall\|Great Houses of Rivenhall]] of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]] and the principal house of the [[2. The Known World/1. Kingdom of Rivenhall/Winterlands/Winterlands\|Winterlands]]. Their official motto is "Honor in the Snow, Loyalty in the Blood." and their 5 core tenets are: 
 1. Love your community. 
-2. Maintain your Honor
-3. Always display Loyalty 
-4. Self Sacrifice
+2. Maintain your Honor.
+3. Always display Loyalty.
+4. Self Sacrifice.
 5. Prepare for the worst.
 
 ## Traits

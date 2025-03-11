@@ -3,7 +3,7 @@
 ---
 
 # The Scorchlands of Rivenhall
-The **Scorchlands** are one of the 9 regions of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]]. It is located on the southern most area of the Kingdom, and is ruled by...   
+The **Scorchlands** are one of the 9 regions of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]]. It is located on the southern most end of the Kingdom.   
 
 ## Geography
 The Scorchlands are known for it's arid desserts and rocky mountains, which can prove quite dangerous to non-locals or those without resources. The few rivers, and cost of the Scorchlands provides enough water to grow crops and sustain considerable settlements. Not to mention the Scorchlands are quite easy to trade with considering their easy access to the sea. 
