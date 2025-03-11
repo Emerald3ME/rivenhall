@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/windlands/windlands/"}
+{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/windlands/windlands/","dgPassFrontmatter":true}
 ---
 
 # The Windlands of Rivenhall

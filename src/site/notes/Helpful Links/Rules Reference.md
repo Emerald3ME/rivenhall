@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helpful-links/rules-reference/"}
+{"dg-publish":true,"permalink":"/helpful-links/rules-reference/","dgPassFrontmatter":true}
 ---
 
 # Pathfinder 2nd Edition Rules Reference

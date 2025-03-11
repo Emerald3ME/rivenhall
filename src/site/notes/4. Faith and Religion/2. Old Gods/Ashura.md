@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/ashura/"}
+{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/ashura/","dgPassFrontmatter":true}
 ---
 
 # Ashura, God of the Searing Soul

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/mistlands/veilwood/cedric-mordwyn-school-of-arcane-study/"}
+{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/mistlands/veilwood/cedric-mordwyn-school-of-arcane-study/","dgPassFrontmatter":true}
 ---
 
 # The Cedric Mordwyn School of Arcane Study

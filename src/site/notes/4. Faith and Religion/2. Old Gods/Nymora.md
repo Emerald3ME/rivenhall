@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/nymora/"}
+{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/nymora/","dgPassFrontmatter":true}
 ---
 
 # Nymora, The Icewoven

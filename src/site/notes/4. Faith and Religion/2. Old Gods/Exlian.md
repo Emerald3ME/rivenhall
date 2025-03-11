@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/exlian/"}
+{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/exlian/","dgPassFrontmatter":true}
 ---
 
 # Exlian, the Feaceless Veil

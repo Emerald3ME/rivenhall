@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helpful-links/helpful-links/"}
+{"dg-publish":true,"permalink":"/helpful-links/helpful-links/","dgPassFrontmatter":true}
 ---
 
 # PF2e - Helpful External Links

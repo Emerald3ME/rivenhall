@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party-name/garson/","tags":["player_character"]}
+{"aliases":["Garson"],"tags":["player_character"],"cssclasses":null,"ancestry":"N/A","heritage":"N/A","background":"N/A","class":"Kineticist","subclass":"N/A","player_name":"Anna","dg-publish":true,"permalink":"/1-party-name/garson/","dgPassFrontmatter":true}
 ---
 
 # Garson

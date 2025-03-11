@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-characters/groups/great-houses-of-rivenhall/house-yormont/house-yormont/"}
+{"dg-publish":true,"permalink":"/3-characters/groups/great-houses-of-rivenhall/house-yormont/house-yormont/","dgPassFrontmatter":true}
 ---
 
 # House Yormont

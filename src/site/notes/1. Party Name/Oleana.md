@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party-name/oleana/","tags":["player_character"]}
+{"aliases":null,"tags":["player_character"],"cssclasses":null,"ancestry":"Human","heritage":"N/A","background":"Acolyte","class":"Champion","subclass":"N/A","player_name":"Annika","dg-publish":true,"permalink":"/1-party-name/oleana/","dgPassFrontmatter":true}
 ---
 
 # Oleana

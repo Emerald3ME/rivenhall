@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/roiling-hills/roiling-hills/"}
+{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/roiling-hills/roiling-hills/","dgPassFrontmatter":true}
 ---
 
 # The Roiling Hills of Rivenhall

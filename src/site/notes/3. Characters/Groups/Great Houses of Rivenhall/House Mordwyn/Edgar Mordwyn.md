@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-characters/groups/great-houses-of-rivenhall/house-mordwyn/edgar-mordwyn/"}
+{"dg-publish":true,"permalink":"/3-characters/groups/great-houses-of-rivenhall/house-mordwyn/edgar-mordwyn/","dgPassFrontmatter":true}
 ---
 
 # Edgar Mordwyn

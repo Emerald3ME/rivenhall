@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-characters/groups/great-houses-of-rivenhall/house-yormont/gregor-yormont/"}
+{"dg-publish":true,"permalink":"/3-characters/groups/great-houses-of-rivenhall/house-yormont/gregor-yormont/","dgPassFrontmatter":true}
 ---
 
 # Gregor Yormont

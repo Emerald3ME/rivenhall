@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party-name/kenko/","tags":["player_character"]}
+{"aliases":null,"tags":["player_character"],"cssclasses":null,"ancestry":"Kitsune","heritage":"N/A","background":"N/A","class":"Bard","subclass":"N/A","player_name":"Matt","dg-publish":true,"permalink":"/1-party-name/kenko/","dgPassFrontmatter":true}
 ---
 
 # Kenko

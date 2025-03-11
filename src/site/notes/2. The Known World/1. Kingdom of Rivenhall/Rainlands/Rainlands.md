@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/rainlands/rainlands/"}
+{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/rainlands/rainlands/","dgPassFrontmatter":true}
 ---
 
 # The Rainlands of Rivenhall

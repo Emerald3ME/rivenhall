@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/kingsland/kingsland/"}
+{"dg-publish":true,"permalink":"/2-the-known-world/1-kingdom-of-rivenhall/kingsland/kingsland/","dgPassFrontmatter":true}
 ---
 
 # The Kingsland of Rivenhall

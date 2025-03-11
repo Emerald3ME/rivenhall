@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/tyrax/"}
+{"dg-publish":true,"permalink":"/4-faith-and-religion/2-old-gods/tyrax/","dgPassFrontmatter":true}
 ---
 
 # Tyrax, God of Storms
