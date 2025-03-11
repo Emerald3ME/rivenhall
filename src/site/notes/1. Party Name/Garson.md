@@ -1,5 +1,5 @@
 ---
-{"aliases":["Garson"],"tags":["player_character"],"cssclasses":null,"ancestry":"N/A","heritage":"N/A","background":"N/A","class":"Kineticist","subclass":"N/A","player_name":"Anna","dg-publish":true,"permalink":"/1-party-name/garson/","dgPassFrontmatter":true}
+{"aliases":["Garson"],"tags":["player_character"],"cssclasses":null,"ancestry":"Human","heritage":"N/A","background":"Cultist","class":"Kineticist","subclass":"N/A","player_name":"Anna","dg-publish":true,"permalink":"/1-party-name/garson/","dgPassFrontmatter":true}
 ---
 
 # Garson
@@ -15,7 +15,7 @@
 > <h4> Stats </h4>
 > 
 
-**Garson** is a N/A N/A N/A Kineticist. He is played by Anna.
+**Garson** is a Human Cultist Kineticist. He is played by Anna.
 
 > [!example|bg-yellow c-yellow] Table of Contents 
 > 1. [[1. Party Name/Garson#Description\|#Description]]

@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["player_character"],"cssclasses":null,"ancestry":"Human","heritage":"N/A","background":"Acolyte","class":"Champion","subclass":"N/A","player_name":"Annika","dg-publish":true,"permalink":"/1-party-name/oleana/","dgPassFrontmatter":true}
 ---
 
-# Oleana
+# Oleana 
 > [!infobox]
 > ## **Oleana**
 > ![CharacterArt|220](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qAyHWqphrd9sdj7KtA7Pu4iX-bxcnKBdBw&s)
