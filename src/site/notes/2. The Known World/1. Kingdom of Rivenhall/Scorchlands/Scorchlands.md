@@ -3,6 +3,14 @@
 ---
 
 # The Scorchlands of Rivenhall
+> [!infobox]
+> ## Scorchlands
+>![Art_Rainlands|290](https://i.pinimg.com/736x/0e/b0/f0/0eb0f0e2146e230edc2bd625a2c9001b.jpg) 
+>### General Information
+>### Location Information
+>### Societal Information
+
+
 The **Scorchlands** are one of the 9 regions of [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Rivenhall]]. It is located on the southern most end of the Kingdom.   
 
 ## Geography

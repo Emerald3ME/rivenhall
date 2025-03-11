@@ -5,7 +5,10 @@
 # The Rainlands of Rivenhall
 > [!infobox]
 > ## Rainlands
-> 
+>![Art_Rainlands|290](https://static.wixstatic.com/media/c1b4cf_44205bbbda244f22a42925d7d55c661a~mv2.jpg) 
+>### General Information
+>### Location Information
+>### Societal Information
 
 The **Rainlands** is one of the 9 regions comprising the [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Kingdom of Rivenhall]]. While it's lands are beautifully green, lush, and farmable, it's skies are almost always of a dark grey menagerie. This lack of sunshine has many effects on both the populace and the wildlife, but both make strong efforts to pull through. 
 
