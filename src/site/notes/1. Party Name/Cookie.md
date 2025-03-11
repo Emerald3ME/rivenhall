@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cookie"],"tags":["player_character"],"cssclasses":null,"ancestry":"Human","heritage":"N/A","background":"N/A","class":"Wizard","subclass":"N/A","player_name":"Nikola","dg-publish":true,"permalink":"/1-party-name/cookie/","dgPassFrontmatter":true}
+{"aliases":["Cookie"],"tags":[],"cssclasses":null,"ancestry":"Human","heritage":"N/A","background":"N/A","class":"Wizard","subclass":"N/A","player_name":"Nikola","dg-publish":true,"permalink":"/1-party-name/cookie/","dgPassFrontmatter":true}
 ---
 
 # Cookie
