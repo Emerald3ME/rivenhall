@@ -5,7 +5,6 @@
 # Cookie
 > [!infobox]
 > ## **Cookie**
-> ![CharacterArt|220](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qAyHWqphrd9sdj7KtA7Pu4iX-bxcnKBdBw&s)
 > *Insert text about character portrait*
 > <table><colgroup></colgroup><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Type</td><td>Player Character</td></tr><tr><td>Actor</td><td>Nikola</td></tr><tr></tbody></table>
 > <h3> Character Information </h3>
