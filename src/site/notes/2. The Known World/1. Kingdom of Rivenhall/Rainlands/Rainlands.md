@@ -3,7 +3,11 @@
 ---
 
 # The Rainlands of Rivenhall
-The **Riverlands** is one of the 9 regions comprising the [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Kingdom of Rivenhall]]. While it's lands are beautifully green, lush, and farmable, it's skies are almost always of a dark grey menagerie. This lack of sunshine has many effects on both the populace and the wildlife, but both make strong efforts to pull through. 
+> [!infobox]
+> ## Rainlands
+> 
+
+The **Rainlands** is one of the 9 regions comprising the [[2. The Known World/1. Kingdom of Rivenhall/1. Kingdom of Rivenhall\|Kingdom of Rivenhall]]. While it's lands are beautifully green, lush, and farmable, it's skies are almost always of a dark grey menagerie. This lack of sunshine has many effects on both the populace and the wildlife, but both make strong efforts to pull through. 
 
 ## Geography
 The rainlands are comprised of plains, forests, hills, and endless rivers. Many of the major rivers start atop high hills and rush towards the nearby sea. As the name implies, the Rainlands recieve frequent precipitation which is often very light but still persistent. When it is not raining the clouds hang plentiful and dark grey in the sky, signaling the near inevitable rainfall. 
