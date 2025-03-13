@@ -3,3 +3,6 @@
 ---
 
 # Cookie
+> [!infobox]
+> ## Cookie
+
