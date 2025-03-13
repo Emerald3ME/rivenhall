@@ -12,3 +12,7 @@
 > 	2.1 [[1. Party Name/Kenko#Background\|#Background]]
 > 3. [[1. Party Name/Kenko#Relationships\|#Relationships]]
 > 4. [[1. Party Name/Kenko#Character Information\|#Character Information]]
+
+## Description
+### Appearance
+### Personality
