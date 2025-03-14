@@ -19,4 +19,5 @@
 
 ## Description
 ### Appearance
+Garson's one arm is relatively normal just severely burnt with his other arm being mostly bone and chunks of flesh. On his chest his ribs/random other bones are formed into a armour plate esk cover. His stomach is loose flesh with the middle having a cavity. And his legs aren’t from his original body, they are melted to the hips with the flesh of them. His face is mostly featureless. His eyes are like sunken into his skull. And his mouth has these tear lines around it. His skin is burnt on his head as well. He wears a cloak with a hood.
 ### Personality

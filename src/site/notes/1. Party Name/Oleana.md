@@ -15,6 +15,9 @@
 
 ## Description
 ### Appearance
-Oleana is a Rainfall Orc with bluish-grey skin, sea-green eyes, and jet black hair. 
+Oleana is a Rainfall Orc with bluish-grey skin, sea-green eyes, and jet black hair. She has notable swirling sea tattoos on her arms and pearly white tusks. She is 6'4" and weighs 250 lbs. 
 ### Personality
 
+## Biography
+### Background
+Oleana was born and raised in the [[2. The Known World/1. Kingdom of Rivenhall/Rainlands/Rainlands\|Rainlands]] to the Stormcrest merchant family. 
