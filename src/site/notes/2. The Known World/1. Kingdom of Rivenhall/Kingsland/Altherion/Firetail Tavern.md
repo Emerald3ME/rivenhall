@@ -24,12 +24,12 @@ The **Firetail Tavern** is a quaint new addition to the bustling streets of [[2.
 - Small storage. 
 ### Basement Cellar
 ## Staff
-| Role           | Name                | Ancestry |
-| -------------- | ------------------- | -------- |
-| Owner/Operator | Kenko               | Kitsune  |
-| Barkeep        | Milo Copperwhistle  | Gnome    |
-| Head Chef      | Astrid Ovenstone    | Dwarf    |
-| Waiter         | Grizzle Glimmerfoot | Goblin   |
+| Role           | Name                | Ancestry | Monthly Pay    |
+| -------------- | ------------------- | -------- | -------------- |
+| Owner/Operator | Kenko               | Kitsune  |                |
+| Barkeep        | Milo Copperwhistle  | Gnome    | 27gp per month |
+| Head Chef      | Astrid Ovenstone    | Dwarf    | 30gp per month |
+| Waiter         | Grizzle Glimmerfoot | Goblin   | 6gp per month  |
 
 
 
