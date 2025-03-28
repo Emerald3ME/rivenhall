@@ -19,3 +19,13 @@
 ## Description
 ### Appearance
 ### Personality
+
+## Biography
+
+## Relationships
+
+## Character Information
+### Personal Quests
+### Proficiencies
+### Notable Items
+### Abilities

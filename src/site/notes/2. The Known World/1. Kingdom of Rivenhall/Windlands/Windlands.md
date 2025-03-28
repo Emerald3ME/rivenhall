@@ -9,6 +9,9 @@
 >### General Information
 >### Location Information
 >### Societal Information
+## Map of the Windlands
+![Art|500](https://i.imgur.com/tuW0Iz5.png)
+
 ## Geography
 
 ## Seasons
