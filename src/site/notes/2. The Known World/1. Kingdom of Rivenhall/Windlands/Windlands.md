@@ -25,5 +25,8 @@
 ## History
 
 ## Points of Interest 
+### Gale's Crossing
+
+### Skyhollow
 
 ## Residents
